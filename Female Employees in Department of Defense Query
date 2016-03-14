@@ -1,1 +1,2 @@
-Sample
+select * from roubenproject 
+where agency = 'DD10' and gender = 'F' ;
