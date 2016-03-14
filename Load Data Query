@@ -1,0 +1,1 @@
+LOAD DATA INPATH 'wasb:///hive/warehouse/FACTDATA_SEP2015.TXT' into table roubenproject;
