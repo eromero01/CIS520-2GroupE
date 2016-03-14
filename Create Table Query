@@ -1,0 +1,24 @@
+CREATE TABLE roubenproject
+(
+Agency string, 
+Loc string, 
+Age string, 
+Education string, 
+GENDER string, 
+GSEGRD string, 
+LOSLVL string, 
+Occupation string,
+OccupationCategory string, 
+PayPlanGrade string,
+Salary string, 
+STEMOccupation string,
+Supervisorystatues string, 
+TOA string, 
+Workschedule string, 
+WorkStatus string, 
+DateCode string, 
+Employment string, 
+AverageSalary string,
+AverageLenghtservice string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
