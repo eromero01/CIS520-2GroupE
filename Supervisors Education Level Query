@@ -1,1 +1,3 @@
-Sample
+select education,count(*) from roubenproject 
+where supervisorystatues = '6'or supervisorystatues = '7'or supervisorystatues = '2'
+group by education;
