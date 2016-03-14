@@ -1,1 +1,2 @@
-Sample
+select * from roubenproject 
+where loslvl = 'I' or loslvl = 'J' ;
