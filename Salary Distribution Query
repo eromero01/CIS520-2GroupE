@@ -1,1 +1,1 @@
-Sample
+select salary,count(*) from roubenproject group by salary;
